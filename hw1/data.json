@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Банан",
+        "size": 4,
+        "img": "https://zakroma.sumy.ua/image/cache/catalog/frukti/banan-500x500.jpg"
+    },
+    {
+        "title": "Клубника",
+        "size": 35,
+        "img": "http://suseky.com/wp-content/uploads/2016/12/firestock_strawbery_06102013.jpg"
+    },
+    {
+        "title": "Арбуз",
+        "size": 22,
+        "img": "https://www.voprosy-kak-i-pochemu.ru/wp-content/uploads/watermelon.jpg"
+    }
+]
