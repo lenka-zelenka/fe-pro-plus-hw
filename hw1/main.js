@@ -28,21 +28,21 @@ class ViewController {
 
     template(item) {
         return `
-            <div class="col s12 m4 l3">
-                <div class="card" id="">
-                    <div class="card-image">
-                        <img src="${item.img}">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title">${item.title}</span>
-                        <span class="tial">${item.size}</span>
-                    </div>
-                    <div class="card-action">
-                        <a class="add-to-cart">В корзину!</a>
-                    </div>
+        <div class="col s12 m4 l3">
+            <div class="card" id="">
+                <div class="card-image">
+                    <img src="${item.img}">
                 </div>
-            </div>       
-        `
+                <div class="card-content">
+                    <span class="card-title">${item.title}</span>
+                    <span class="tial">${item.size}</span>
+                </div>
+                <div class="card-action">
+                    <a class="add-to-cart">В корзину!</a>
+                </div>
+            </div>
+        </div>       
+    `
     }
 
     get render() {
